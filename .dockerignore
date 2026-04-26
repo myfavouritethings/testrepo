@@ -1,0 +1,23 @@
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Git
+.git
+.gitignore
+
+# Python
+.pytest_cache
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Poetry
+poetry.lock
+
+# IDE
+.idea
+.vscode
